@@ -1,0 +1,33 @@
+{
+    "info": {
+        "url_png_icon_64x64": "https://github.com/fisch192/southtyrolpool.github.io/blob/main/iphone-60x60@3x.png?raw=true",
+        "url_png_logo": "https://github.com/fisch192/southtyrolpool.github.io/blob/main/southtyrolpool-name.jpg?raw=true",
+        "location": "Canberra, Australia",
+        "social": {
+            "twitter_handle": "Southtyrolpool",
+            "telegram_handle": "Southtyrolpool",
+            "facebook_handle": "",
+            "youtube_handle": "",
+            "twitch_handle": "",
+            "discord_handle": "",
+            "github_handle": ""
+        },
+        "company": {
+            "name": "Southtyrol",
+            "addr": "",
+            "city": "Bolzano",
+            "country": "AU",
+            "company_id": "",
+            "vat_id": ""
+        },
+        "about": {
+            "me": "Testing a new pool",
+            "server": "Raspberry Pi 4 powered with green energy",
+            "company": ""
+        },
+    "my-pool-ids": {
+        "0": "2dabd15e4759334738940a65e06b6589f674a29347db0a36d75a5d36",
+        "1": ""
+      }
+    }
+}
