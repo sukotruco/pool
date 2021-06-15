@@ -1,0 +1,7 @@
+{
+"name": "My JC test pool",
+"description": "I am testing in testnet.",
+"ticker": "TESTI",
+"homepage": "https://google.com/",
+"extended": "https://raw.githubusercontent.com/sukotruco/pool/main/extendedPoolMetaData.json"
+}
